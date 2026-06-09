@@ -1,3 +1,12 @@
+ ![Ekran Görüntüsü 1](demo2.png)
+   ![Ekran Görüntüsü 1](demo3.png)
+    ![Ekran Görüntüsü 1](demo4.png)
+     ![Ekran Görüntüsü 1](demo5.png)
+      ![Ekran Görüntüsü 1](demo6.png)
+       ![Ekran Görüntüsü 1](demo7.png)
+        ![Ekran Görüntüsü 1](demo8.png)
+
+
 # Project-Taaza
 
 <a href="https://www.instagram.com/whxitte"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sethusatheesh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@S3THU"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
@@ -409,12 +418,6 @@ License: This project is based on the original work licensed under Creative Comm
 
   Not: Bu proje, Sethu Satheesh'in Project-Taaza şablonu temel alınarak kişisel çalışma amaçlı düzenlenmiştir.
 
-  ![Ekran Görüntüsü 1](demo2.png)
-   ![Ekran Görüntüsü 1](demo3.png)
-    ![Ekran Görüntüsü 1](demo4.png)
-     ![Ekran Görüntüsü 1](demo5.png)
-      ![Ekran Görüntüsü 1](demo6.png)
-       ![Ekran Görüntüsü 1](demo7.png)
-        ![Ekran Görüntüsü 1](demo8.png)
+ 
        
 
